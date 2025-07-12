@@ -1,0 +1,6 @@
+torch
+einops
+numpy
+tqdm
+Levenshtein
+matplotlib
