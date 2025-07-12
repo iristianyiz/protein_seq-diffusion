@@ -1,5 +1,6 @@
 from protein_dataset import ProteinDataset
 
+
 ds = ProteinDataset('data/protein_sequences.txt', seq_len=50) # short seq 
 print("Number of sequences:", len(ds))
 print("Sample tokenized:", ds[0])
